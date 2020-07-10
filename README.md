@@ -1,6 +1,6 @@
 # DJ - Deej - David James 👨🏻‍💻
 
-#### ~ [CodePen](https://codepen.io/daviddeejjames) ~ [LinkedIn](https://www.linkedin.com/in/david-james-614521106) ~ [Twitter](https://twitter.com/daviddeejjames) ~
+#### ~ [CodePen](https://codepen.io/daviddeejjames) ~ [LinkedIn](https://www.linkedin.com/in/david-james-614521106) ~ [Twitter](https://twitter.com/daviddeejjames)  ~ [Instagram](https://instagram.com/daviddeejjames) ~
 
 
 ----
