@@ -1,16 +1,14 @@
-### Hi there 👋
+# DJ - Deej - David James 👨🏻‍💻
 
-<!--
-**daviddeejjames/daviddeejjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### ~ [CodePen](https://codepen.io/daviddeejjames) ~ [LinkedIn](https://www.linkedin.com/in/david-james-614521106) ~ [Twitter](https://twitter.com/daviddeejjames) ~
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+Hello! Here is some stuff about me and what I do sometimes:
+
+- 🏡 &nbsp; Working at [REA Group](https://www.rea-group.com/careers)
+- 🎒 &nbsp; [JuniorDev Melbourne](https://juniordev.io/) Crew Member
+- 🌱 &nbsp; Currently learning functional programming and gardening
+- 💬 &nbsp; Ask me about [CSS](https://daviddeejjames.github.io/css-porygon/), [Javascript](https://dfjames.dev/blog/email-automation-with-node-and-dropbox) and [skateboarding 🛹](https://vimeo.com/212436302)
+- 🎧 &nbsp; Listening to Tycho and video game soundtracks
